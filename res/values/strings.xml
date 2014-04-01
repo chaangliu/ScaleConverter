@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">进制转换</string>
+    <string name="title">ScaleConverter 2.1</string>
+    <string name="input">输入一个十进制整数：</string>
+    <string name="button1">转换为二进制</string>
+    <string name="button2">转换为八进制</string>
+    <string name="button3">转换为十六进制</string>
+    <string name="button4">高级..</string>
+    <string name="resultView1">您输入的数:</string>
+    <string name="resultView3_1">转换为二进制为：</string>
+    <string name="resultView3_2">转换为八进制为：</string>
+    <string name="resultView3_3">转换为十六进制为:</string>
+    <string name="copy">复制结果到剪贴板</string>
+    <string name="copy_succ">复制成功了，现在可以粘贴了~</string>
+    <string name="back">返回</string>
+    <string name="customView0">原来的数是几进制？</string>
+    <string name="customView1">转换成几进制？</string>    
+    <string name="customView2">要转换的数是？</string>
+    <string name="customView3">结果:</string>
+    <string name="customButton1">转换</string>
+    <string name="input_sth">输点什么..-_-</string>
+    <string name="input_error">输入有误+_+</string>
+    <string name="currentRadix">设置</string>
+    <string name="set1">十进制（默认）</string>
+    <string name="set2">二进制</string>
+    <string name="set3">八进制</string>
+    <string name="set4">十六进制</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="about_content">进制转换 ScaleConverter V2.1\n\nModified On Jan 2013\n\nReleased On Aug 2011\n\nCode By Larry\n\n1.\n这个应用支持将任意进制(默认十进制)的非负整数转换成常见的二进制、八进制、十六进制数，
+    当然如果需要 您也可以点击“高级..”按钮将任意进制数转换成其他任意进制数。\n\n2.\n考虑到需求因素，故主界面中要求输入的数的类型为十进制数。如果需要转换的数为其他进制数，请点击“高级..”按钮。\n\n3.\n这个应用是免费的、开源的，您可以反编译它。暂时没有找到对于负数和小数的算法，有兴趣的朋友可以和我联系。\n\nThank u for using:)\n\nContact Me:\n\nE-mail: lcconan@163.com
+    \n\nWebsite:www.wildbaihe.com(暂时停用)
+     </string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="makesure">要退出吗？</string>
+    
+    
+</resources>
